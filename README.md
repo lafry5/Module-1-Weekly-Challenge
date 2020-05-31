@@ -2,7 +2,7 @@
 
 Sample screenshot for the first weekly challenge's webpage:
 
-< img src = "../assets/images/capture.jpg" alt = "screen shot"/>
+![](Capture.JPG)
 
 
 REPOSITORY TITLE: lafry5/Module-1-Weekly-Challenge
@@ -18,3 +18,4 @@ TABLE OF CONTENTS:
     -  Support
 
 
+Installation:
