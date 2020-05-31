@@ -2,7 +2,7 @@
 
 Sample screenshot for the first weekly challenge's webpage:
 
-![](Capture.JPG)
+![screenshot](assets/images/Capture.JPG)
 
 
 REPOSITORY TITLE: lafry5/Module-1-Weekly-Challenge
