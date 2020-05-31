@@ -1,8 +1,8 @@
 
 
-Sample screenshot for the first weekly challenge:
-../assets/images/capture.jpg
+Sample screenshot for the first weekly challenge's webpage:
 
+< img src = "../assets/images/capture.jpg" alt = "screen shot"/>
 
 
 REPOSITORY TITLE: lafry5/Module-1-Weekly-Challenge
