@@ -7,7 +7,7 @@ Sample screenshot of the website from the first challenge:
 
 REPOSITORY TITLE: lafry5/Module-1-Weekly-Challenge
     
-    Refactor Horiseon starter code
+    Updated starter code for Horiseon web-page with comments and added this readme.
 
 
 Repository Link: https://github.com/lafry5/Module-1-Weekly-Challenge
@@ -17,6 +17,7 @@ Github Page: https://lafry5.github.io/Module-1-Weekly-Challenge/
 
 
 TABLE OF CONTENTS:
+    
     -  Clone
  
     -  Setup
@@ -42,5 +43,5 @@ Contributing:
 Support:
     Reach out to me at one of the following places!
 
-    Email: lafry5@yahoo.com, 
+    Email: lafry5@yahoo.com 
     Cell: (602) 363-0253
