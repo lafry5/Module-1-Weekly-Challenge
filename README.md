@@ -23,6 +23,8 @@ TABLE OF CONTENTS:
     -  Setup
  
     - Contributing
+
+    - Description
  
     -  Support
 
@@ -39,9 +41,19 @@ Setup:
 Contributing:
     The starter code for this project was provided by the UofA bootcamp. I added the comments and Readme file.
 
+Description:
+    This code creates a web page for Horiseon Social Solutions Services. The web page contains an overview of their SEO, ORM and SMM services. If the user clicks one of the topics at the top of the page it will take them to that section on the web
+     page.   
+
+    Examples screenshots are as follows:
+
+![screenshot](screenshot1.jpg)
+
+![screenshot](screenshot2.jpg)
+
 
 Support:
-    Reach out to me at one of the following places!
+    Reach out to me at one of the following places if you have any questions!
 
     Email: lafry5@yahoo.com 
     Cell: (602) 363-0253
