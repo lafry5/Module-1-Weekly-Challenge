@@ -47,9 +47,9 @@ Description:
 
     Examples screenshots are as follows:
 
-![screenshot](screenshot1.jpg)
+![screenshot](assets/images/screenshot1.jpg)
 
-![screenshot](screenshot2.jpg)
+![screenshot](assets/images/screenshot2.jpg)
 
 
 Support:
